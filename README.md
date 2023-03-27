@@ -7,7 +7,8 @@ connections and make the El burrito look much better
 
 with 			
 ESP32 pin	goes to	 description	
-"mezzanine"			
+"mezzanine"	
+
 26	 CE  	 output, enables MAX2870
 
 17	 rxa 	 output to EB6, enables TX 
