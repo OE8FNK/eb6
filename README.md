@@ -5,10 +5,7 @@ This are the new order of connections  with the "Mezzanine-PCB", which
 connects the ESP32 and the MAX2870 together, saveing lot of work with the 
 connections and make the El burrito look much better
 
-with 			
-ESP32 pin	goes to	 description	
-"mezzanine"	
-
+ESP32 pin - goes to -  description	
 
 26	 CE  	 output, enables MAX2870
 
