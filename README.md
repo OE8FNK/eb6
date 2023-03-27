@@ -9,6 +9,7 @@ with
 ESP32 pin	goes to	 description	
 "mezzanine"	
 
+
 26	 CE  	 output, enables MAX2870
 
 17	 rxa 	 output to EB6, enables TX 
