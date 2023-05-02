@@ -3,7 +3,12 @@ Firmware and Test-Tools for the El Burrito EB6 6cm FM/CW transceiver
 
 This are the new order of connections  with the "Mezzanine-PCB", which
 connects the ESP32 and the MAX2870 together, saveing lot of work with the 
-connections and make the El burrito look much better
+connections and make the El burrito look much better.
+
+For some test-tools like RX testing there is no need to make all connections,
+see comments in the program for wiring. 
+
+*** FULL CONNECTION TABLE: ***
 
 ESP32 pin - goes to -  description	
 
